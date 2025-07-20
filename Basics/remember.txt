@@ -1,0 +1,25 @@
+Strong Number
+A Number that is equal to the sum of the factorial of it's individual digits is known as Strong Number.
+e.g. : 145 = 1! + 4! + 5!
+       145 = 1 + 24 + 120
+
+Perfect Number
+A Number that can be represented as the sum of all the factors of the number is known as a Perfect Number.
+e.g.  : 28 = 1 + 2 + 14 + 4 + 7
+
+Factorial
+we can find factorial series by f[i] = f[i-1]*i
+
+Automorphic Number
+A number whose square ends with the same number is known as an Automorphic number.
+Explanation : Number = 5
+Square of number = 25
+
+Harshad Number
+A Number that is divisible by the sum of it's digits is known as a Harshad number.
+
+Abundant Number
+A Number that is smaller than the sum of all it's factors except the number itself is known as an Abundant number.
+
+Friendly Pair Numbers
+The numbers whose ( sum of divisors ) / number ratio is same are known as Friendly Pair Numbers.
